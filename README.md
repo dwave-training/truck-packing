@@ -1,4 +1,7 @@
-
+[![Open in GitHub Codespaces](
+  https://img.shields.io/badge/Open%20in%20GitHub%20Codespaces-333?logo=github)](
+  https://codespaces.new/dwave-training/truck-packing?quickstart=1)
+  
 # Packing a Delivery Truck
 
 In North America there are hundreds of standard box sizes that consumer goods can be
